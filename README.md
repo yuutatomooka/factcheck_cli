@@ -113,3 +113,4 @@ factchecker/
 data/corpus/         # .txt documents (filename = doc_id)
 sessions/            # Saved session JSONL files
 ```
+# factcheck_cli
