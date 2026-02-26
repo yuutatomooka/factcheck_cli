@@ -1,0 +1,10 @@
+---
+CLAIM: Washington D.C. is the capital of USA.
+VERDICT: SUPPORTED
+CONFIDENCE: 1.00
+EVIDENCE USED: [1]
+SOURCES:
+  [1] usa.txt — "Washington, DC is the capital city of the United States of America."
+---
+EXPLANATION:
+Evidence directly states the claim. Best match in usa.txt.

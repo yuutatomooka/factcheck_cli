@@ -1,0 +1,10 @@
+---
+CLAIM: New York is the capital of United States.
+VERDICT: REFUTED
+CONFIDENCE: 1.00
+EVIDENCE USED: [1]
+SOURCES:
+  [1] usa.txt — "New York City is not the capital city of the United States of America."
+---
+EXPLANATION:
+Evidence directly contradicts the claim (usa.txt).

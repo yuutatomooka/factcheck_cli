@@ -1,0 +1,11 @@
+---
+CLAIM: The population of Mars is 2 billion.
+VERDICT: NOT_ENOUGH_INFO
+CONFIDENCE: 0.20
+EVIDENCE USED: []
+SOURCES:
+  [1] usa.txt — "Washington, DC is the capital city of the United States of America."
+  [2] usa.txt — "New York City is not the capital city of the United States of America."
+---
+EXPLANATION:
+Evidence does not directly support or contradict the claim.

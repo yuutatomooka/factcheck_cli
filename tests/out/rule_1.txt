@@ -1,0 +1,10 @@
+---
+CLAIM: The United States borders Canada to the south
+VERDICT: REFUTED
+CONFIDENCE: 0.90
+EVIDENCE USED: [1]
+SOURCES:
+  [1] usa.txt — "The United States of America borders Canada to the north."
+---
+EXPLANATION:
+Evidence states the opposite direction (usa.txt): borders to the north, not south.

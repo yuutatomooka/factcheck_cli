@@ -1,0 +1,4 @@
+# sample claims file
+Tokyo is the capital of Japan.
+Earth orbits the Moon.
+New York is NOT the capital of United States.

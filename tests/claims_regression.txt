@@ -1,0 +1,14 @@
+# 1) Direction: should be REFUTED
+The United States borders Canada to the south
+
+# 2) Direction: should be SUPPORTED
+The United States borders Canada to the north
+
+# 3) Capital: should be SUPPORTED
+Washington D.C. is the capital of USA.
+
+# 4) Capital: should be REFUTED
+New York is the capital of United States.
+
+# 5) NEI: should be NOT_ENOUGH_INFO (unless you add Mars population to corpus)
+The population of Mars is 2 billion.
